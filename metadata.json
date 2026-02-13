@@ -1,0 +1,8 @@
+{
+  "name": "MEDdee POOM Health Partner",
+  "description": "A professional healthcare portal providing expert health knowledge and exclusive membership benefits.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
